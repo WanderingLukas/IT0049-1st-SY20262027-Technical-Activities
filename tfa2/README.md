@@ -15,7 +15,7 @@ The website consists of four pages:
 - **Customer Accounts (`/customers`)** – Retrieves and displays customer names, emails, and phone numbers from the MySQL database.
 - **User Accounts (`/users`)** – Retrieves and displays staff usernames, full names, and roles from the database.
 
-## Technologies Used
+## Programs Used
 - PHP
 - CodeIgniter 4
 - MySQL
