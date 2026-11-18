@@ -91,7 +91,7 @@ The following functionality should be verified before submission:
 
 ## Submission Links
 
-**GitHub Repository:** [Insert GitHub URL]
+**GitHub Repository:** https://github.com/WanderingLukas/IT0049-1st-SY20262027-Technical-Activities/tree/714fe23ab405081e3a6986f65dc740f6ac54eeb8/tfa4
 
 **Hosted Website:** https://itlukashtfa4.infinityfree.me/
 
