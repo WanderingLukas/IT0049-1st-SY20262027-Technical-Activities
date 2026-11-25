@@ -73,9 +73,9 @@ The following functionality has been verified:
 
 ## Submission Links
 
-**GitHub Repository:** [Insert GitHub URL]
+**GitHub Repository:** https://github.com/WanderingLukas/IT0049-1st-SY20262027-Technical-Activities/tree/2fdab9b92ffc4756367fde1a7a74e009ef7c06c8/tsa3
 
-**Hosted Website:** [Insert Hosted Website URL]
+**Hosted Website:** https://itlukashtsa3.infinityfree.me/
 
 ## Academic Information
 
