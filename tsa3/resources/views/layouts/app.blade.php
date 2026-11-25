@@ -178,7 +178,7 @@
         @yield('content')
 
         <footer class="text-center text-muted mt-5 py-3">
-            <small>TaskNest | Laravel TSA3</small>
+            <small>Tasks for Today | Laravel | TSA3</small>
         </footer>
 
     </main>
